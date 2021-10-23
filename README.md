@@ -2,3 +2,4 @@
 better version of my other sample java stock game
 
 # Tutorial: How to play
+i'll add
